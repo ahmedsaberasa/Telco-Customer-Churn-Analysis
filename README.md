@@ -1,7 +1,7 @@
 # 📡 Telco Customer Churn Analysis
 
 <p align="center">
-  <img src="Telco Customer Churn Analysis/images/churn_cover_card.png" alt="Telco Churn Analysis Cover" width="100%"/>
+  <img src="Customer Churn Analysis/images/churn_cover_card.png" alt="Telco Churn Analysis Cover" width="100%"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ The goal: identify **why customers leave**, **predict who is at risk**, and buil
 ## 📊 Key Findings
 
 <p align="center">
-  <img src="Telco Customer Churn Analysis/images/churn_findings_card.png" alt="Key Churn Drivers" width="100%"/>
+  <img src="Customer Churn Analysis/images/churn_findings_card.png" alt="Key Churn Drivers" width="100%"/>
 </p>
 
 | Risk Factor | Churn Rate |
@@ -43,7 +43,7 @@ The goal: identify **why customers leave**, **predict who is at risk**, and buil
 ## 🤖 Model Results
 
 <p align="center">
-  <img src="Telco Customer Churn Analysis/images/model_results_card.png" alt="Model Comparison Results" width="100%"/>
+  <img src="Customer Churn Analysis/images/model_results_card.png" alt="Model Comparison Results" width="100%"/>
 </p>
 
 Four classification models were trained and evaluated:
@@ -62,7 +62,7 @@ Four classification models were trained and evaluated:
 ## 💡 Retention Strategy
 
 <p align="center">
-  <img src="Telco Customer Churn Analysis/images/retention_strategy_card.png" alt="Retention Strategy" width="100%"/>
+  <img src="Customer Churn Analysis/images/retention_strategy_card.png" alt="Retention Strategy" width="100%"/>
 </p>
 
 Based on the analysis, four high-impact interventions were identified:
